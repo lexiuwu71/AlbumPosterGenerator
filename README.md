@@ -1,6 +1,8 @@
 # AlbumPosterGenerator
 A few Python script using Pillow that generates an album poster using local files! (Heavily inspired by @elliotjarnit's project of the same name)
 
+![alt text](https://github.com/lexiuwu71/AlbumPosterGenerator/blob/main/poster.png?raw=true)
+
 ill update the readme later :P
 
 run the script and select the folder for your album
